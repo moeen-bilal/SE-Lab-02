@@ -1,1 +1,1 @@
-Version from main branch
+Version resolved from both branches
